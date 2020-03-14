@@ -1,0 +1,4 @@
+
+public class CollectionExample2 {
+
+}
