@@ -1,2 +1,10 @@
 eclipse.preferences.version=1
+encoding//src/Account.java=UTF-8
+encoding//src/CustomTypeAdapter.java=UTF-8
+encoding//src/ExposeExample.java=UTF-8
+encoding//src/GsonStreamingReaderExample.java=UTF-8
+encoding//src/GsonStreamingWriterExample.java=UTF-8
+encoding//src/Jackson/JacksonStreamingReaderExample.java=UTF-8
+encoding//src/Jackson/JacksonStreamingWriterExample.java=UTF-8
 encoding//src/PrimitiveExample.java=UTF-8
+encoding//src/VersioningExample.java=UTF-8

@@ -19,7 +19,7 @@ public static void main(String[] args) {
 	//Seserialization
 	Type collectionType = new TypeToken<List<Integer>>(){}.getType();
 	Collection<Integer> integers2 = gson.fromJson(jsonString, collectionType);
-	//==>integers2 is same as intsIntergers
+	//==>integers2 is same as intsIntegers
 	
 }
 }
